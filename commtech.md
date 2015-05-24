@@ -1,8 +1,10 @@
+# Communications Technology and the Northern Tier #
+
 Using communication technology is an inherently dangerous part of working with the Northern Tier.
 
 Civilian comm tech is deeply insecure against astral, demonic, and super-scientific intervention and monitoring. An agent of the Northern Tier would be better off letting a project fail than to radio home using civilian tech.
 
-Whenever communication technology is used, roll 2d6 on the following table, with the following modifiers (stacking):
+Whenever communication technology is used, roll __2d6__ on the table below, with the following modifiers (stacking):
 
 Communication Device | Modifier
 ---------------------|-----------
