@@ -19,7 +19,8 @@ Using Northern Tier Heavy Infrastructure (outpost comms room, heavy duty field r
 Mutant Future tech: [GO LOOK AT SOURCE BOOK] | Various
 
 ## -5 or lower: Operator, Hell Calling ##
-  Your communications channel has allowed something horrible to enter this world. Roll 2d6 again on the following chart, using the same modifiers
+Your communications channel has allowed something horrible to enter this world. Roll 2d6 again on the following chart, using the same modifiers
+
 Final Roll | Creature Summoned
 -----------|------------------
 Below -10 | Demon Lord or Old One
