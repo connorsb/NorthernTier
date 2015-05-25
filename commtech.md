@@ -32,7 +32,7 @@ Below -10 | Demon Lord or Old One
 -7| etc
 
 ##  -4 to -2: Static Scream ##
-	Your communication channel is immediately overwhelmed by the howling static of the dead. Any extraplanar or aberrant creature of 6 HD or higher, within a 5 mile radius has the opportunity to immediately send you a Sending (per the spell), as well as a Fear spell (save vs. death to negate), caster level equal to the creature's HD.
+Your communication channel is immediately overwhelmed by the howling static of the dead. Any extraplanar or aberrant creature of 6 HD or higher, within a 5 mile radius has the opportunity to immediately send you a Sending (per the spell), as well as a Fear spell (save vs. death to negate), caster level equal to the creature's HD.
 
   If no creatures choose to send such missives, the party instead falls under the effects of a fear spell (save vs. death to negate) cast by a 6th level magic-user, as each person in turn interprets the static as a specific and horrible directive aimed just at them.
 
