@@ -6,10 +6,10 @@ Civilian comm tech is deeply insecure against astral, demonic, and super-scienti
 
 Whenever communication technology is used, roll __2d6__ on the table below, with the following modifiers (stacking):
 
-Communication Device | Modifier
----------------------|-----------
-Using Civilian technology (cell phones, pagers, email, public computers) | -6
-Using Military communications equipment (encrypted radio, hardened computer terminals, satellite phones) | -4
+| Communication Device | Modifier |
+| -------------------- | -------- |
+| Using Civilian technology (cell phones, pagers, email, public computers) | -6 |
+| Using Military communications equipment (encrypted radio, hardened computer terminals, satellite phones) | -4 |
 Using Secret technology (CIA, FSB, Alien Tech, spells) | -2
 Using Northern Tier Standard Issue | -0
 Within negatively modified terrain (Evil, cursed, haunted, etc) | -3
