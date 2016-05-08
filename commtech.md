@@ -20,7 +20,7 @@ From within positively modified terrain (blessed, sacred, pure, etc) | +3
 Using Northern Tier Heavy Infrastructure (outpost comms room, heavy duty field radio emplacement, portable fortress) | +6
 Mutant Future tech: [GO LOOK AT SOURCE BOOK] | Various
 
-## -5 or lower: Operator, Hell Calling ##
+### -5 or lower: Operator, Hell Calling ###
 Your communications channel has allowed something horrible to enter this world. Roll 2d6 again on the following chart, using the same modifiers
 
 Final Roll | Creature Summoned
@@ -31,7 +31,7 @@ Below -10 | Demon Lord or Old One
 -8| Nightmare
 -7| etc
 
-##  -4 to -2: Static Scream ##
+###  -4 to -2: Static Scream ###
 
 Your communication channel is immediately overwhelmed by the howling static of the dead. Any extraplanar or aberrant creature of 6 HD or higher, within a 5 mile radius has the opportunity to immediately send you a Sending (per the spell), as well as a Fear spell (save vs. death to negate), caster level equal to the creature's HD.
 
