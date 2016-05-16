@@ -42,3 +42,7 @@ If no creatures choose to send such missives, the party instead falls under the 
 This whole section is of course modeled on the rules for encounter reactions, but, you know, horrible. The intent is to have very crunch rules for the LL, but to try not to really reveal to the players that their antagonists are usually old-school monsters using old-school spells, until those things are right on top of them.
 
 Note that it's real damn possible to summon a Great Old One, if you try to make a call to another timeline from a haunted house with no protection.
+
+----------
+
+Enigma machine + Crowleyian summoning circle + modem = interdimensional phone

@@ -12,3 +12,8 @@ One can assume that any employee who has worked in more than one field office is
 Observers of the organization's activities could accurately characterize its operations as those of Lawful Evil Outsiders. While technically correct, the reader should appreciate the wide scope of acceptable behavior by __Northern Tier__ staff. Many entities in its employ are extraplanar beings of pure good and light, and just as many are demonic, chthonic, chaos-aligned, or otherwise factional.
 
 Even within *arbeitsgruppen*, divergent alignments, home planes, and even cosmological defaults are the norm, not the exception.
+
+## Code Names
+### Sample Code Names:
+* Lone Card
+* Nasty Coin
